@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on Pixel, a Virtual Assistant dedicated to people with hearing deficiency and people with poor computer knowledge 
-- 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, Artificial Intelligence and others.
+- 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, Artificial Intelligence and others
 - 🤔 I’m looking for help with processes in python
 - 📫 How to reach me: tataru.theodora@yahoo.com, on <a href="https://twitter.com/theodora_tataru">Twitter</a> or on <a href="https://www.linkedin.com/in/theodoratataru/">LinkedIn</a>
 - ⚡ Fun fact: I am a cancer survivor! And I am so proud of that!
