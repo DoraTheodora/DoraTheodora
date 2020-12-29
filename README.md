@@ -1,14 +1,15 @@
+<a href="https://ibb.co/71qBYk6"><img src="https://i.ibb.co/KrJB0K3/banner.png" alt="banner" border="0"></a>
 # Hi there 👋
 
-- 🔭 I’m currently working on Pixel, a Virtual Assistant encapsulated in a mirror, dedicated to people with hearing deficiency and people with poor computer knowledge 
-- 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, Artificial Intelligence and others
+- 🔭 I’m currently working on Pixel, a Virtual Assistant encapsulated in a mirror, <br >dedicated to people with hearing deficiency and people with poor computer knowledge 
+- 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, <br>Artificial Intelligence and others
 - 🤔 I’m looking for help with processes in python
 - 📫 How to reach me: <a href="https://twitter.com/theodora_tataru">Twitter</a> or <a href="https://www.linkedin.com/in/theodoratataru/">LinkedIn</a>
 - ⚡ Fun fact: I am a cancer survivor! And I am so proud of that!
 
 
 # Achievements 
-_________________________________________________________________________________________________________________
+_________________________________________________________________________
 ## Articles
 <b>Awards</b>
   - <p> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6685879965294112768/">Awarded Ambassador in Women in Tech 2020</a></p>
@@ -23,9 +24,9 @@ ________________________________________________________________________________
   - <p> <a href="https://www.youtube.com/watch?v=-JEY1KVqKtU&t=9s">On .NET Live - Building a College Diary with Xamarin.Forms</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=RuIANKINwgk">.NET Conf 2020 Student Showcase | Featuring Theodora Tataru</a></p>
 <b>Youtube Channel</b>
-  - <p> <a href="https://www.youtube.com/channel/UCHDGn3mQ4SCGXWl3WVhS5nQ">I am sharing you a collection of dreams, of people who made the step of going back to education, and challenged every fear they had!</a></p>
+  - <p> <a href="https://www.youtube.com/channel/UCHDGn3mQ4SCGXWl3WVhS5nQ">I am sharing you a collection of dreams, of people who made the step of going back to education</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=eKd7DH51Fvs&t=27s">Women in STEM - Kilkenny Tech Thuesday</a></p>
-_________________________________________________________________________________________________________________
+_________________________________________________________________________
 ## CollegeDiary
 <a href="https://ibb.co/tsz2rkb"><img src="https://i.ibb.co/mq0yW1H/IMG-0974.jpg" alt="IMG-0974" border="0"></a>
 
