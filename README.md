@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QD9bwQs/inteligencia-artificial-foto-thumb-600.jpg" alt="inteligencia-artificial-foto-thumb-600" border="0"></a>
+<a href="https://ibb.co/rF1L7tY"><img src="https://i.ibb.co/MZ3j2hr/1558710013364.jpg" alt="1558710013364" border="0"></a>
 # Hi there 👋
 
 - 🔭 I’m currently working on Pixel, a Virtual Assistant encapsulated in a mirror, <br >dedicated to people with hearing deficiency and people with poor computer knowledge 
