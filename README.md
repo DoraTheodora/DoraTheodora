@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[:heart: Sponsor Dora Theodora](https://github.com/sponsors/DoraTheodora)
+[:heart: Sponsor Theodora](https://github.com/sponsors/DoraTheodora)
 - 🔭 I’m currently working on Pixel, a Virtual Assistant encapsulated in a mirror, <br >dedicated to people with hearing deficiency and people with poor computer knowledge 
 - 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, <br>Artificial Intelligence and others
 - 🤔 I’m looking for help with processes in python
