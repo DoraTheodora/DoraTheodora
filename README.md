@@ -16,19 +16,11 @@ The College Diary Mobile app is a mobile aplication that can be found on Google 
 
 - <p>Apple Store <a href="https://apps.apple.com/tt/app/college-diary/id1528772909?ign-mpt=uo%3D2">College Diary</a></p>
 - <p>Google Play <a href="https://play.google.com/store/apps/details?id=com.companyname.cd&gl=IE">College Diary</a></p>
-
-The app tracks the student's academic progress:
-  - Each subject progress
-  - Over all progress
-  - The app has a calendar, for better manage of time in academic projects 
-  
- The app requires:
-  - Creating an account 
  
-## Screen Shots
+### Screen Shots
 <a href="https://ibb.co/JBcNFSZ"><img src="https://i.ibb.co/5M1dxJZ/Be-Funky-collage.jpg" alt="Be-Funky-collage" border="0"></a>
 
-"# Articles
+### Articles
 <b>Microsoft</b>
   - <p> <a href="https://devblogs.microsoft.com/xamarin/college-diary-xamarin-theodora-tataru/">A Dev Story: College Diary with Xamarin.Forms by Theodora Tataru</a></p>
 <b>Syncfusion</b>
