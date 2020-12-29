@@ -10,20 +10,19 @@
 
 # Achievements 
 _________________________________________________________________________
-## Articles
-<b>Awards</b>
+## <b>Awards</b>
   - <p> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6685879965294112768/">Awarded Ambassador in Women in Tech 2020</a></p>
-<b>Microsoft</b>
+## <b>Microsoft</b>
   - <p> <a href="https://devblogs.microsoft.com/xamarin/college-diary-xamarin-theodora-tataru/">A Dev Story: College Diary with Xamarin.Forms by Theodora Tataru</a></p>
-<b>Syncfusion</b>
+## <b>Syncfusion</b>
   - <p> <a href="https://www.syncfusion.com/company/case-studies/education-non_profit/no-need-to-start-your-app-from-scratchuse-syncfusions-xamarin-suite">No Need to Start Your App from Scratch—Use Syncfusion’s Xamarin Suite</a></p>
-<b>.net Rocks Podcast </b>
+## <b>.net Rocks Podcast </b>
   - <p> <a href="https://www.dotnetrocks.com/?show=1704">Starting with Xamarin with Theodora Tataru</a></p>
-<b>Live Shows </b>
+## <b>Live Shows </b>
   - <p> <a href="https://www.youtube.com/watch?v=Ht99b8Bmrhc">Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=-JEY1KVqKtU&t=9s">On .NET Live - Building a College Diary with Xamarin.Forms</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=RuIANKINwgk">.NET Conf 2020 Student Showcase | Featuring Theodora Tataru</a></p>
-<b>Youtube Channel</b>
+## <b>Youtube Channel</b>
   - <p> <a href="https://www.youtube.com/channel/UCHDGn3mQ4SCGXWl3WVhS5nQ">I am sharing you a collection of dreams, of people who made the step of going back to education</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=eKd7DH51Fvs&t=27s">Women in STEM - Kilkenny Tech Thuesday</a></p>
 _________________________________________________________________________
