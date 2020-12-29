@@ -9,16 +9,9 @@
 
 # Achievements 
 _________________________________________________________________________________________________________________
-## CollegeDiary
-<a href="https://ibb.co/tsz2rkb"><img src="https://i.ibb.co/mq0yW1H/IMG-0974.jpg" alt="IMG-0974" border="0"></a>
-
-The College Diary Mobile app is a mobile aplication that can be found on Google Play and Apple Store, dedicated to students. 
-
-- <p>Apple Store <a href="https://apps.apple.com/tt/app/college-diary/id1528772909?ign-mpt=uo%3D2">College Diary</a></p>
-- <p>Google Play <a href="https://play.google.com/store/apps/details?id=com.companyname.cd&gl=IE">College Diary</a></p>
-
-_________________________________________________________________________________________________________________
 ## Articles
+<b>Awards</b>
+  - <p> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6685879965294112768/">Awarded Ambassador in Women in Tech 2020</a></p>
 <b>Microsoft</b>
   - <p> <a href="https://devblogs.microsoft.com/xamarin/college-diary-xamarin-theodora-tataru/">A Dev Story: College Diary with Xamarin.Forms by Theodora Tataru</a></p>
 <b>Syncfusion</b>
@@ -29,3 +22,16 @@ ________________________________________________________________________________
   - <p> <a href="https://www.youtube.com/watch?v=Ht99b8Bmrhc">Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=-JEY1KVqKtU&t=9s">On .NET Live - Building a College Diary with Xamarin.Forms</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=RuIANKINwgk">.NET Conf 2020 Student Showcase | Featuring Theodora Tataru</a></p>
+<b>Youtube Channel</b>
+  - <p> <a href="https://www.youtube.com/channel/UCHDGn3mQ4SCGXWl3WVhS5nQ">I am sharing you a collection of dreams, of people who made the step of going back to education, and challenged every fear they had!</a></p>
+  - <p> <a href="https://www.youtube.com/watch?v=eKd7DH51Fvs&t=27s">Women in STEM - Kilkenny Tech Thuesday</a></p>
+_________________________________________________________________________________________________________________
+## CollegeDiary
+<a href="https://ibb.co/tsz2rkb"><img src="https://i.ibb.co/mq0yW1H/IMG-0974.jpg" alt="IMG-0974" border="0"></a>
+
+The College Diary Mobile app is a mobile aplication that can be found on Google Play and Apple Store, dedicated to students. 
+
+- <p>Apple Store <a href="https://apps.apple.com/tt/app/college-diary/id1528772909?ign-mpt=uo%3D2">College Diary</a></p>
+- <p>Google Play <a href="https://play.google.com/store/apps/details?id=com.companyname.cd&gl=IE">College Diary</a></p>
+
+
