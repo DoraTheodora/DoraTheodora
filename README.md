@@ -1,6 +1,6 @@
-<a href="https://ibb.co/rF1L7tY"><img src="https://i.ibb.co/MZ3j2hr/1558710013364.jpg" alt="1558710013364" border="0"></a>
 # Hi there 👋
 
+[:heart: Sponsor Dora Theodora](https://github.com/sponsors/DoraTheodora)
 - 🔭 I’m currently working on Pixel, a Virtual Assistant encapsulated in a mirror, <br >dedicated to people with hearing deficiency and people with poor computer knowledge 
 - 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, <br>Artificial Intelligence and others
 - 🤔 I’m looking for help with processes in python
