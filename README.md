@@ -5,8 +5,9 @@
 - 🤔 I’m looking for help with processes in python
 - 📫 How to reach me: <a href="https://twitter.com/theodora_tataru">Twitter</a> or <a href="https://www.linkedin.com/in/theodoratataru/">LinkedIn</a>
 
-# Achievements 
 _________________________________________________________________________
+# Achievements 
+
 ## <b>Awards</b>
   - <p> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6685879965294112768/">Awarded Ambassador in Women in Tech 2020</a></p>
 ## <b>Microsoft</b>
