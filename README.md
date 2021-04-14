@@ -5,6 +5,8 @@
 - 🤔 I’m looking for help with processes in python
 - 📫 How to reach me: <a href="https://twitter.com/theodora_tataru">Twitter</a> or <a href="https://www.linkedin.com/in/theodoratataru/">LinkedIn</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoraTheodora&show_icons=true&theme=radical)
+
 _________________________________________________________________________
 # Achievements 
 
