@@ -27,6 +27,7 @@ _________________________________________________________________________
 ## <b>Youtube Channel</b>
   - <p> <a href="https://www.youtube.com/channel/UCHDGn3mQ4SCGXWl3WVhS5nQ">I am sharing you a collection of dreams, of people who made the step of going back to education</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=eKd7DH51Fvs&t=27s">Women in STEM - Kilkenny Tech Thuesday</a></p>
+  - - <p> <a href="https://www.youtube.com/watch?v=9tTbjzHnAPw&t=67s">Pixel Virtual Assistant</a></p>
 _________________________________________________________________________
 ## CollegeDiary
 <a href="https://ibb.co/tsz2rkb"><img src="https://i.ibb.co/mq0yW1H/IMG-0974.jpg" alt="IMG-0974" border="0"></a>
