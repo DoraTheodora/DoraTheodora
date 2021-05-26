@@ -30,7 +30,7 @@ _________________________________________________________________________
   - <p> <a href="https://www.youtube.com/watch?v=9tTbjzHnAPw&t=67s">Pixel Virtual Assistant</a></p>
 _________________________________________________________________________
 ## <b>Final year project - 2021</b>
-  - <p> <a href="https://showcase.itcarlow.ie/C00231174/index.html"> Pixel, a smart speaker, encapsulated in a mirror, dedicated foe people with low technological skills and hearing deficiency</a></p>
+  - <p> <a href="https://showcase.itcarlow.ie/C00231174/index.html"> Pixel, a smart speaker, encapsulated in a mirror, dedicated for people with low technological skills and hearing deficiency</a></p>
 
 _________________________________________________________________________
 ## CollegeDiary
