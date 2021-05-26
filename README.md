@@ -29,6 +29,10 @@ _________________________________________________________________________
   - <p> <a href="https://www.youtube.com/watch?v=eKd7DH51Fvs&t=27s">Women in STEM - Kilkenny Tech Thuesday</a></p>
   - <p> <a href="https://www.youtube.com/watch?v=9tTbjzHnAPw&t=67s">Pixel Virtual Assistant</a></p>
 _________________________________________________________________________
+## <b>Final year project - 2021</b>
+  - <p> <a href="https://showcase.itcarlow.ie/C00231174/index.html"> Pixel, a smart speaker, encapsulated in a mirror, dedicated foe people with low technological skills and hearing deficiency</a></p>
+
+_________________________________________________________________________
 ## CollegeDiary
 <a href="https://ibb.co/tsz2rkb"><img src="https://i.ibb.co/mq0yW1H/IMG-0974.jpg" alt="IMG-0974" border="0"></a>
 
@@ -36,5 +40,3 @@ The College Diary Mobile app is a mobile aplication that can be found on Google 
 
 - <p>Apple Store <a href="https://apps.apple.com/tt/app/college-diary/id1528772909?ign-mpt=uo%3D2">College Diary</a></p>
 - <p>Google Play <a href="https://play.google.com/store/apps/details?id=com.companyname.cd&gl=IE">College Diary</a></p>
-
-
