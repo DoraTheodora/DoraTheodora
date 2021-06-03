@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Pixel, a Virtual Assistant encapsulated in a mirror, <br >dedicated to people with hearing deficiency and people with poor computer knowledge 
-- 🌱 I’m currently learning Raspberry Pi, Concurrency and Parallelism in distributed systems, <br>Artificial Intelligence and others
+- 🔭 I’m currently working on getting my AWS Associate Developer certificate 
+- 🌱 I’m currently learning DevOps tools
 - 🤔 I’m looking for tech individuals, to teach children of Africa at Kua Zone
 - 📫 How to reach me: <a href="https://twitter.com/theodora_tataru">Twitter</a> or <a href="https://www.linkedin.com/in/theodoratataru/">LinkedIn</a>
 
