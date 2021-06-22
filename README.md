@@ -10,9 +10,9 @@
 _________________________________________________________________________
 # Achievements 
 
-## <b>Mentions</b>
-  - <p> <a href="https://www.itcarlow.ie/news.htm/view/id/7075">IT Carlow female students making an impact as we mark IWD</a></p>
+
 ## <b>Awards</b>
+  - <p> <a href="https://www.itcarlow.ie/news.htm/view/id/7315">Awarded Best Software Development Project of the Year 2021</a></p>
   - <p> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6685879965294112768/">Awarded Ambassador in Women in Tech 2020</a></p>
 ## <b>Microsoft</b>
   - <p> <a href="https://devblogs.microsoft.com/xamarin/college-diary-xamarin-theodora-tataru/">A Dev Story: College Diary with Xamarin.Forms by Theodora Tataru</a></p>
@@ -31,6 +31,7 @@ _________________________________________________________________________
 _________________________________________________________________________
 ## <b>Final year project - 2021</b>
   - <p> <a href="https://showcase.itcarlow.ie/C00231174/index.html"> Pixel, a smart speaker, encapsulated in a mirror, dedicated for people with low technological skills and hearing deficiency</a></p>
+  - <p> <a href="https://www.itcarlow.ie/news.htm/view/id/7315">Awarded Best Software Development Project of the Year 2021</a></p>
 
 _________________________________________________________________________
 ## CollegeDiary
@@ -40,3 +41,6 @@ The College Diary Mobile app is a mobile aplication that can be found on Google 
 
 - <p>Apple Store <a href="https://apps.apple.com/tt/app/college-diary/id1528772909?ign-mpt=uo%3D2">College Diary</a></p>
 - <p>Google Play <a href="https://play.google.com/store/apps/details?id=com.companyname.cd&gl=IE">College Diary</a></p>
+
+## <b>Mentions</b>
+  - <p> <a href="https://www.itcarlow.ie/news.htm/view/id/7075">IT Carlow female students making an impact as we mark IWD</a></p>
