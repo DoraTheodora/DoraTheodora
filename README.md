@@ -13,6 +13,7 @@ _________________________________________________________________________
 
 ## <b>Awards</b>
   - <p> <a href="https://www.itcarlow.ie/news.htm/view/id/7315">Awarded Best Software Development Project of the Year 2021</a></p>
+    <a href="https://ibb.co/cXdMcYH"><img src="https://i.ibb.co/XkTNZYg/Whats-App-Image-2021-06-29-at-15-36-54.jpg" alt="Whats-App-Image-2021-06-29-at-15-36-54" border="0"></a>
   - <p> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6685879965294112768/">Awarded Ambassador in Women in Tech 2020</a></p>
 ## <b>Microsoft</b>
   - <p> <a href="https://devblogs.microsoft.com/xamarin/college-diary-xamarin-theodora-tataru/">A Dev Story: College Diary with Xamarin.Forms by Theodora Tataru</a></p>
